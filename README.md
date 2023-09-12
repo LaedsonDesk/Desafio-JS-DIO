@@ -1,2 +1,1 @@
-# Desafio-JS-DIO
-Atividade em JavaSript, DIO
+# Trilha JS Developer - Pokedex
